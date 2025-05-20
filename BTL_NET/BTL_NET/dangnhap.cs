@@ -63,10 +63,18 @@ namespace BTL_NET
                 string mk = reader.GetString(1);
                 if(txtTendangnhap.Text.Trim()==tk && txtmk.Text.Trim() == mk)
                 {
-                    trangchu trangchu = new trangchu();
+                    reader.Close();
+                    this.Hide();
+                    trangchu trangchu = new trangchu();        
                     trangchu.Show();
+                    trangchu.FormClosed += (s, args) =>
+                    {
+                        this.Show(); 
+                    };
+
                     check = true;
                     return;
+                  
                 }
             }
             reader.Close();

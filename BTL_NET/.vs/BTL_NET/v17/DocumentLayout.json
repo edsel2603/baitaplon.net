@@ -1,69 +1,81 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\hoa\\source\\repos\\Net\\BTL_NET\\",
+  "WorkspaceRootPath": "C:\\Users\\hoa\\source\\repos\\baitaplon.net\\BTL_NET\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F2CA6A3B-8E0B-421E-AC73-DFB5E99EE1E8}|BTL_NET\\BTL_NET.csproj|C:\\Users\\hoa\\source\\repos\\Net\\BTL_NET\\btl_net\\trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F2CA6A3B-8E0B-421E-AC73-DFB5E99EE1E8}|BTL_NET\\BTL_NET.csproj|solutionrelative:btl_net\\trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{F2CA6A3B-8E0B-421E-AC73-DFB5E99EE1E8}|BTL_NET\\BTL_NET.csproj|c:\\users\\hoa\\source\\repos\\baitaplon.net\\btl_net\\btl_net\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2CA6A3B-8E0B-421E-AC73-DFB5E99EE1E8}|BTL_NET\\BTL_NET.csproj|solutionrelative:btl_net\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2CA6A3B-8E0B-421E-AC73-DFB5E99EE1E8}|BTL_NET\\BTL_NET.csproj|c:\\users\\hoa\\source\\repos\\net\\btl_net\\btl_net\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F2CA6A3B-8E0B-421E-AC73-DFB5E99EE1E8}|BTL_NET\\BTL_NET.csproj|solutionrelative:btl_net\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F2CA6A3B-8E0B-421E-AC73-DFB5E99EE1E8}|BTL_NET\\BTL_NET.csproj|c:\\users\\hoa\\source\\repos\\net\\btl_net\\btl_net\\bao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F2CA6A3B-8E0B-421E-AC73-DFB5E99EE1E8}|BTL_NET\\BTL_NET.csproj|solutionrelative:btl_net\\bao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F2CA6A3B-8E0B-421E-AC73-DFB5E99EE1E8}|BTL_NET\\BTL_NET.csproj|c:\\users\\hoa\\source\\repos\\net\\btl_net\\btl_net\\timkiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F2CA6A3B-8E0B-421E-AC73-DFB5E99EE1E8}|BTL_NET\\BTL_NET.csproj|solutionrelative:btl_net\\timkiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F2CA6A3B-8E0B-421E-AC73-DFB5E99EE1E8}|BTL_NET\\BTL_NET.csproj|c:\\users\\hoa\\source\\repos\\net\\btl_net\\btl_net\\trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F2CA6A3B-8E0B-421E-AC73-DFB5E99EE1E8}|BTL_NET\\BTL_NET.csproj|C:\\Users\\hoa\\source\\repos\\baitaplon.net\\BTL_NET\\btl_net\\trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F2CA6A3B-8E0B-421E-AC73-DFB5E99EE1E8}|BTL_NET\\BTL_NET.csproj|solutionrelative:btl_net\\trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2CA6A3B-8E0B-421E-AC73-DFB5E99EE1E8}|BTL_NET\\BTL_NET.csproj|C:\\Users\\hoa\\source\\repos\\Net\\BTL_NET\\btl_net\\ketnoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F2CA6A3B-8E0B-421E-AC73-DFB5E99EE1E8}|BTL_NET\\BTL_NET.csproj|solutionrelative:btl_net\\ketnoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F2CA6A3B-8E0B-421E-AC73-DFB5E99EE1E8}|BTL_NET\\BTL_NET.csproj|C:\\Users\\hoa\\source\\repos\\baitaplon.net\\BTL_NET\\btl_net\\trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F2CA6A3B-8E0B-421E-AC73-DFB5E99EE1E8}|BTL_NET\\BTL_NET.csproj|solutionrelative:btl_net\\trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2CA6A3B-8E0B-421E-AC73-DFB5E99EE1E8}|BTL_NET\\BTL_NET.csproj|C:\\Users\\hoa\\source\\repos\\Net\\BTL_NET\\btl_net\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F2CA6A3B-8E0B-421E-AC73-DFB5E99EE1E8}|BTL_NET\\BTL_NET.csproj|C:\\Users\\hoa\\source\\repos\\baitaplon.net\\BTL_NET\\btl_net\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F2CA6A3B-8E0B-421E-AC73-DFB5E99EE1E8}|BTL_NET\\BTL_NET.csproj|solutionrelative:btl_net\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2CA6A3B-8E0B-421E-AC73-DFB5E99EE1E8}|BTL_NET\\BTL_NET.csproj|c:\\users\\hoa\\source\\repos\\net\\btl_net\\btl_net\\quanlykhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F2CA6A3B-8E0B-421E-AC73-DFB5E99EE1E8}|BTL_NET\\BTL_NET.csproj|C:\\Users\\hoa\\source\\repos\\baitaplon.net\\BTL_NET\\btl_net\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2CA6A3B-8E0B-421E-AC73-DFB5E99EE1E8}|BTL_NET\\BTL_NET.csproj|solutionrelative:btl_net\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2CA6A3B-8E0B-421E-AC73-DFB5E99EE1E8}|BTL_NET\\BTL_NET.csproj|C:\\Users\\hoa\\source\\repos\\baitaplon.net\\BTL_NET\\btl_net\\trangchu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2CA6A3B-8E0B-421E-AC73-DFB5E99EE1E8}|BTL_NET\\BTL_NET.csproj|solutionrelative:btl_net\\trangchu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2CA6A3B-8E0B-421E-AC73-DFB5E99EE1E8}|BTL_NET\\BTL_NET.csproj|C:\\Users\\hoa\\source\\repos\\baitaplon.net\\BTL_NET\\btl_net\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F2CA6A3B-8E0B-421E-AC73-DFB5E99EE1E8}|BTL_NET\\BTL_NET.csproj|solutionrelative:btl_net\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2CA6A3B-8E0B-421E-AC73-DFB5E99EE1E8}|BTL_NET\\BTL_NET.csproj|C:\\Users\\hoa\\source\\repos\\baitaplon.net\\BTL_NET\\btl_net\\bao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F2CA6A3B-8E0B-421E-AC73-DFB5E99EE1E8}|BTL_NET\\BTL_NET.csproj|solutionrelative:btl_net\\bao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2CA6A3B-8E0B-421E-AC73-DFB5E99EE1E8}|BTL_NET\\BTL_NET.csproj|C:\\Users\\hoa\\source\\repos\\baitaplon.net\\BTL_NET\\btl_net\\timkiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F2CA6A3B-8E0B-421E-AC73-DFB5E99EE1E8}|BTL_NET\\BTL_NET.csproj|solutionrelative:btl_net\\timkiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2CA6A3B-8E0B-421E-AC73-DFB5E99EE1E8}|BTL_NET\\BTL_NET.csproj|C:\\Users\\hoa\\source\\repos\\baitaplon.net\\BTL_NET\\btl_net\\ketnoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2CA6A3B-8E0B-421E-AC73-DFB5E99EE1E8}|BTL_NET\\BTL_NET.csproj|solutionrelative:btl_net\\ketnoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2CA6A3B-8E0B-421E-AC73-DFB5E99EE1E8}|BTL_NET\\BTL_NET.csproj|C:\\Users\\hoa\\source\\repos\\baitaplon.net\\BTL_NET\\btl_net\\quanlykhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F2CA6A3B-8E0B-421E-AC73-DFB5E99EE1E8}|BTL_NET\\BTL_NET.csproj|solutionrelative:btl_net\\quanlykhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2CA6A3B-8E0B-421E-AC73-DFB5E99EE1E8}|BTL_NET\\BTL_NET.csproj|c:\\users\\hoa\\source\\repos\\net\\btl_net\\btl_net\\baocao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F2CA6A3B-8E0B-421E-AC73-DFB5E99EE1E8}|BTL_NET\\BTL_NET.csproj|C:\\Users\\hoa\\source\\repos\\baitaplon.net\\BTL_NET\\btl_net\\baocao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F2CA6A3B-8E0B-421E-AC73-DFB5E99EE1E8}|BTL_NET\\BTL_NET.csproj|solutionrelative:btl_net\\baocao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2CA6A3B-8E0B-421E-AC73-DFB5E99EE1E8}|BTL_NET\\BTL_NET.csproj|C:\\Users\\hoa\\source\\repos\\Net\\BTL_NET\\btl_net\\dangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F2CA6A3B-8E0B-421E-AC73-DFB5E99EE1E8}|BTL_NET\\BTL_NET.csproj|C:\\Users\\hoa\\source\\repos\\baitaplon.net\\BTL_NET\\btl_net\\dangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F2CA6A3B-8E0B-421E-AC73-DFB5E99EE1E8}|BTL_NET\\BTL_NET.csproj|solutionrelative:btl_net\\dangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2CA6A3B-8E0B-421E-AC73-DFB5E99EE1E8}|BTL_NET\\BTL_NET.csproj|C:\\Users\\hoa\\source\\repos\\Net\\BTL_NET\\btl_net\\dangky.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F2CA6A3B-8E0B-421E-AC73-DFB5E99EE1E8}|BTL_NET\\BTL_NET.csproj|C:\\Users\\hoa\\source\\repos\\baitaplon.net\\BTL_NET\\btl_net\\dangky.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F2CA6A3B-8E0B-421E-AC73-DFB5E99EE1E8}|BTL_NET\\BTL_NET.csproj|solutionrelative:btl_net\\dangky.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2CA6A3B-8E0B-421E-AC73-DFB5E99EE1E8}|BTL_NET\\BTL_NET.csproj|C:\\Users\\hoa\\source\\repos\\Net\\BTL_NET\\btl_net\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F2CA6A3B-8E0B-421E-AC73-DFB5E99EE1E8}|BTL_NET\\BTL_NET.csproj|C:\\Users\\hoa\\source\\repos\\baitaplon.net\\BTL_NET\\btl_net\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F2CA6A3B-8E0B-421E-AC73-DFB5E99EE1E8}|BTL_NET\\BTL_NET.csproj|solutionrelative:btl_net\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2CA6A3B-8E0B-421E-AC73-DFB5E99EE1E8}|BTL_NET\\BTL_NET.csproj|c:\\users\\hoa\\source\\repos\\net\\btl_net\\btl_net\\quangcao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F2CA6A3B-8E0B-421E-AC73-DFB5E99EE1E8}|BTL_NET\\BTL_NET.csproj|C:\\Users\\hoa\\source\\repos\\baitaplon.net\\BTL_NET\\btl_net\\quangcao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F2CA6A3B-8E0B-421E-AC73-DFB5E99EE1E8}|BTL_NET\\BTL_NET.csproj|solutionrelative:btl_net\\quangcao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2CA6A3B-8E0B-421E-AC73-DFB5E99EE1E8}|BTL_NET\\BTL_NET.csproj|c:\\users\\hoa\\source\\repos\\net\\btl_net\\btl_net\\quanlykhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F2CA6A3B-8E0B-421E-AC73-DFB5E99EE1E8}|BTL_NET\\BTL_NET.csproj|C:\\Users\\hoa\\source\\repos\\baitaplon.net\\BTL_NET\\btl_net\\quanlykhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F2CA6A3B-8E0B-421E-AC73-DFB5E99EE1E8}|BTL_NET\\BTL_NET.csproj|solutionrelative:btl_net\\quanlykhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2CA6A3B-8E0B-421E-AC73-DFB5E99EE1E8}|BTL_NET\\BTL_NET.csproj|C:\\Users\\hoa\\source\\repos\\Net\\BTL_NET\\btl_net\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F2CA6A3B-8E0B-421E-AC73-DFB5E99EE1E8}|BTL_NET\\BTL_NET.csproj|C:\\Users\\hoa\\source\\repos\\baitaplon.net\\BTL_NET\\btl_net\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F2CA6A3B-8E0B-421E-AC73-DFB5E99EE1E8}|BTL_NET\\BTL_NET.csproj|solutionrelative:btl_net\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2CA6A3B-8E0B-421E-AC73-DFB5E99EE1E8}|BTL_NET\\BTL_NET.csproj|C:\\Users\\hoa\\source\\repos\\Net\\BTL_NET\\btl_net\\dangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F2CA6A3B-8E0B-421E-AC73-DFB5E99EE1E8}|BTL_NET\\BTL_NET.csproj|C:\\Users\\hoa\\source\\repos\\baitaplon.net\\BTL_NET\\btl_net\\dangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F2CA6A3B-8E0B-421E-AC73-DFB5E99EE1E8}|BTL_NET\\BTL_NET.csproj|solutionrelative:btl_net\\dangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -74,161 +86,150 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 16,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "Ketnoi.cs",
-              "DocumentMoniker": "C:\\Users\\hoa\\source\\repos\\Net\\BTL_NET\\BTL_NET\\Ketnoi.cs",
+              "DocumentMoniker": "C:\\Users\\hoa\\source\\repos\\baitaplon.net\\BTL_NET\\BTL_NET\\Ketnoi.cs",
               "RelativeDocumentMoniker": "BTL_NET\\Ketnoi.cs",
-              "ToolTip": "C:\\Users\\hoa\\source\\repos\\Net\\BTL_NET\\BTL_NET\\Ketnoi.cs",
+              "ToolTip": "C:\\Users\\hoa\\source\\repos\\baitaplon.net\\BTL_NET\\BTL_NET\\Ketnoi.cs",
               "RelativeToolTip": "BTL_NET\\Ketnoi.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-16T01:39:35.017Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "trangchu.cs",
-              "DocumentMoniker": "C:\\Users\\hoa\\source\\repos\\Net\\BTL_NET\\BTL_NET\\trangchu.cs",
-              "RelativeDocumentMoniker": "BTL_NET\\trangchu.cs",
-              "ToolTip": "C:\\Users\\hoa\\source\\repos\\Net\\BTL_NET\\BTL_NET\\trangchu.cs",
-              "RelativeToolTip": "BTL_NET\\trangchu.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAmwFsAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T06:31:15.365Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "timkiem.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\hoa\\source\\repos\\Net\\BTL_NET\\BTL_NET\\timkiem.cs",
-              "RelativeDocumentMoniker": "BTL_NET\\timkiem.cs",
-              "ToolTip": "C:\\Users\\hoa\\source\\repos\\Net\\BTL_NET\\BTL_NET\\timkiem.cs [Design]",
-              "RelativeToolTip": "BTL_NET\\timkiem.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T15:01:40.612Z",
-              "IsPinned": true,
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "baocao.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\hoa\\source\\repos\\Net\\BTL_NET\\BTL_NET\\baocao.cs",
-              "RelativeDocumentMoniker": "BTL_NET\\baocao.cs",
-              "ToolTip": "C:\\Users\\hoa\\source\\repos\\Net\\BTL_NET\\BTL_NET\\baocao.cs [Design]",
-              "RelativeToolTip": "BTL_NET\\baocao.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T15:00:33.787Z",
-              "IsPinned": true,
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "quangcao.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\hoa\\source\\repos\\Net\\BTL_NET\\BTL_NET\\quangcao.cs",
-              "RelativeDocumentMoniker": "BTL_NET\\quangcao.cs",
-              "ToolTip": "C:\\Users\\hoa\\source\\repos\\Net\\BTL_NET\\BTL_NET\\quangcao.cs [Design]",
-              "RelativeToolTip": "BTL_NET\\quangcao.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T14:54:17.758Z",
-              "IsPinned": true,
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "bao.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\hoa\\source\\repos\\Net\\BTL_NET\\BTL_NET\\bao.cs",
-              "RelativeDocumentMoniker": "BTL_NET\\bao.cs",
-              "ToolTip": "C:\\Users\\hoa\\source\\repos\\Net\\BTL_NET\\BTL_NET\\bao.cs [Design]",
-              "RelativeToolTip": "BTL_NET\\bao.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T14:51:53.785Z",
-              "IsPinned": true,
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "quanlykhachhang.cs",
-              "DocumentMoniker": "C:\\Users\\hoa\\source\\repos\\Net\\BTL_NET\\BTL_NET\\quanlykhachhang.cs",
-              "RelativeDocumentMoniker": "BTL_NET\\quanlykhachhang.cs",
-              "ToolTip": "C:\\Users\\hoa\\source\\repos\\Net\\BTL_NET\\BTL_NET\\quanlykhachhang.cs",
-              "RelativeToolTip": "BTL_NET\\quanlykhachhang.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAhwDYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T14:40:24.012Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "quanlykhachhang.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\hoa\\source\\repos\\Net\\BTL_NET\\BTL_NET\\quanlykhachhang.cs",
-              "RelativeDocumentMoniker": "BTL_NET\\quanlykhachhang.cs",
-              "ToolTip": "C:\\Users\\hoa\\source\\repos\\Net\\BTL_NET\\BTL_NET\\quanlykhachhang.cs [Design]",
-              "RelativeToolTip": "BTL_NET\\quanlykhachhang.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T14:19:17.208Z",
-              "IsPinned": true,
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "trangchu.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\hoa\\source\\repos\\Net\\BTL_NET\\BTL_NET\\trangchu.cs",
-              "RelativeDocumentMoniker": "BTL_NET\\trangchu.cs",
-              "ToolTip": "C:\\Users\\hoa\\source\\repos\\Net\\BTL_NET\\BTL_NET\\trangchu.cs [Design]",
-              "RelativeToolTip": "BTL_NET\\trangchu.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T03:59:49.082Z",
-              "IsPinned": true,
-              "EditorCaption": " [Design]"
+              "IsPinned": true
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "nhanvien.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\hoa\\source\\repos\\Net\\BTL_NET\\BTL_NET\\nhanvien.cs",
-              "RelativeDocumentMoniker": "BTL_NET\\nhanvien.cs",
-              "ToolTip": "C:\\Users\\hoa\\source\\repos\\Net\\BTL_NET\\BTL_NET\\nhanvien.cs [Design]",
-              "RelativeToolTip": "BTL_NET\\nhanvien.cs [Design]",
+              "Title": "trangchu.cs",
+              "DocumentMoniker": "C:\\Users\\hoa\\source\\repos\\baitaplon.net\\BTL_NET\\BTL_NET\\trangchu.cs",
+              "RelativeDocumentMoniker": "BTL_NET\\trangchu.cs",
+              "ToolTip": "C:\\Users\\hoa\\source\\repos\\baitaplon.net\\BTL_NET\\BTL_NET\\trangchu.cs",
+              "RelativeToolTip": "BTL_NET\\trangchu.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAnwCYAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T14:49:50.846Z",
-              "IsPinned": true,
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-05-17T06:31:15.365Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "timkiem.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hoa\\source\\repos\\baitaplon.net\\BTL_NET\\BTL_NET\\timkiem.cs",
+              "RelativeDocumentMoniker": "BTL_NET\\timkiem.cs",
+              "ToolTip": "C:\\Users\\hoa\\source\\repos\\Net\\BTL_NET\\BTL_NET\\timkiem.cs [Design]",
+              "RelativeToolTip": "..\\..\\Net\\BTL_NET\\BTL_NET\\timkiem.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T15:01:40.612Z",
+              "IsPinned": true
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\hoa\\source\\repos\\Net\\BTL_NET\\BTL_NET\\Form1.cs",
-              "RelativeDocumentMoniker": "BTL_NET\\Form1.cs",
-              "ToolTip": "C:\\Users\\hoa\\source\\repos\\Net\\BTL_NET\\BTL_NET\\Form1.cs [Design]",
-              "RelativeToolTip": "BTL_NET\\Form1.cs [Design]",
+              "Title": "baocao.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hoa\\source\\repos\\baitaplon.net\\BTL_NET\\BTL_NET\\baocao.cs",
+              "RelativeDocumentMoniker": "BTL_NET\\baocao.cs",
+              "ToolTip": "C:\\Users\\hoa\\source\\repos\\Net\\BTL_NET\\BTL_NET\\baocao.cs [Design]",
+              "RelativeToolTip": "..\\..\\Net\\BTL_NET\\BTL_NET\\baocao.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T16:09:29.338Z",
-              "IsPinned": true,
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-05-19T15:00:33.787Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "quangcao.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hoa\\source\\repos\\baitaplon.net\\BTL_NET\\BTL_NET\\quangcao.cs",
+              "RelativeDocumentMoniker": "BTL_NET\\quangcao.cs",
+              "ToolTip": "C:\\Users\\hoa\\source\\repos\\Net\\BTL_NET\\BTL_NET\\quangcao.cs [Design]",
+              "RelativeToolTip": "..\\..\\Net\\BTL_NET\\BTL_NET\\quangcao.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T14:54:17.758Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "bao.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hoa\\source\\repos\\baitaplon.net\\BTL_NET\\BTL_NET\\bao.cs",
+              "RelativeDocumentMoniker": "BTL_NET\\bao.cs",
+              "ToolTip": "C:\\Users\\hoa\\source\\repos\\Net\\BTL_NET\\BTL_NET\\bao.cs [Design]",
+              "RelativeToolTip": "..\\..\\Net\\BTL_NET\\BTL_NET\\bao.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T14:51:53.785Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "quanlykhachhang.cs",
+              "DocumentMoniker": "C:\\Users\\hoa\\source\\repos\\baitaplon.net\\BTL_NET\\BTL_NET\\quanlykhachhang.cs",
+              "RelativeDocumentMoniker": "BTL_NET\\quanlykhachhang.cs",
+              "ToolTip": "C:\\Users\\hoa\\source\\repos\\baitaplon.net\\BTL_NET\\BTL_NET\\quanlykhachhang.cs",
+              "RelativeToolTip": "BTL_NET\\quanlykhachhang.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAhwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T14:40:24.012Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "quanlykhachhang.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hoa\\source\\repos\\baitaplon.net\\BTL_NET\\BTL_NET\\quanlykhachhang.cs",
+              "RelativeDocumentMoniker": "BTL_NET\\quanlykhachhang.cs",
+              "ToolTip": "C:\\Users\\hoa\\source\\repos\\Net\\BTL_NET\\BTL_NET\\quanlykhachhang.cs [Design]",
+              "RelativeToolTip": "..\\..\\Net\\BTL_NET\\BTL_NET\\quanlykhachhang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T14:19:17.208Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "trangchu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hoa\\source\\repos\\baitaplon.net\\BTL_NET\\BTL_NET\\trangchu.cs",
+              "RelativeDocumentMoniker": "BTL_NET\\trangchu.cs",
+              "ToolTip": "C:\\Users\\hoa\\source\\repos\\baitaplon.net\\BTL_NET\\BTL_NET\\trangchu.cs [Design]",
+              "RelativeToolTip": "BTL_NET\\trangchu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T03:59:49.082Z",
+              "IsPinned": true
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "nhanvien.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hoa\\source\\repos\\baitaplon.net\\BTL_NET\\BTL_NET\\nhanvien.cs",
+              "RelativeDocumentMoniker": "BTL_NET\\nhanvien.cs",
+              "ToolTip": "C:\\Users\\hoa\\source\\repos\\Net\\BTL_NET\\BTL_NET\\nhanvien.cs [Design]",
+              "RelativeToolTip": "..\\..\\Net\\BTL_NET\\BTL_NET\\nhanvien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T14:49:50.846Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hoa\\source\\repos\\baitaplon.net\\BTL_NET\\BTL_NET\\Form1.cs",
+              "RelativeDocumentMoniker": "BTL_NET\\Form1.cs",
+              "ToolTip": "C:\\Users\\hoa\\source\\repos\\Net\\BTL_NET\\BTL_NET\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\Net\\BTL_NET\\BTL_NET\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T16:09:29.338Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "dangnhap.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\hoa\\source\\repos\\Net\\BTL_NET\\BTL_NET\\dangnhap.cs",
+              "DocumentMoniker": "C:\\Users\\hoa\\source\\repos\\baitaplon.net\\BTL_NET\\BTL_NET\\dangnhap.cs",
               "RelativeDocumentMoniker": "BTL_NET\\dangnhap.cs",
-              "ToolTip": "C:\\Users\\hoa\\source\\repos\\Net\\BTL_NET\\BTL_NET\\dangnhap.cs [Design]",
+              "ToolTip": "C:\\Users\\hoa\\source\\repos\\baitaplon.net\\BTL_NET\\BTL_NET\\dangnhap.cs [Design]",
               "RelativeToolTip": "BTL_NET\\dangnhap.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-10T08:03:17.14Z",
@@ -237,58 +238,93 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "dangky.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\hoa\\source\\repos\\Net\\BTL_NET\\BTL_NET\\dangky.cs",
+              "DocumentMoniker": "C:\\Users\\hoa\\source\\repos\\baitaplon.net\\BTL_NET\\BTL_NET\\dangky.cs",
               "RelativeDocumentMoniker": "BTL_NET\\dangky.cs",
               "ToolTip": "C:\\Users\\hoa\\source\\repos\\Net\\BTL_NET\\BTL_NET\\dangky.cs [Design]",
-              "RelativeToolTip": "BTL_NET\\dangky.cs [Design]",
+              "RelativeToolTip": "..\\..\\Net\\BTL_NET\\BTL_NET\\dangky.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-10T13:19:00.829Z",
-              "IsPinned": true,
-              "EditorCaption": " [Design]"
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\hoa\\source\\repos\\Net\\BTL_NET\\BTL_NET\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\hoa\\source\\repos\\baitaplon.net\\BTL_NET\\BTL_NET\\Form1.cs",
               "RelativeDocumentMoniker": "BTL_NET\\Form1.cs",
-              "ToolTip": "C:\\Users\\hoa\\source\\repos\\Net\\BTL_NET\\BTL_NET\\Form1.cs",
+              "ToolTip": "C:\\Users\\hoa\\source\\repos\\baitaplon.net\\BTL_NET\\BTL_NET\\Form1.cs",
               "RelativeToolTip": "BTL_NET\\Form1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-17T02:22:29.092Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "dangky.cs",
-              "DocumentMoniker": "C:\\Users\\hoa\\source\\repos\\Net\\BTL_NET\\BTL_NET\\dangky.cs",
+              "DocumentMoniker": "C:\\Users\\hoa\\source\\repos\\baitaplon.net\\BTL_NET\\BTL_NET\\dangky.cs",
               "RelativeDocumentMoniker": "BTL_NET\\dangky.cs",
-              "ToolTip": "C:\\Users\\hoa\\source\\repos\\Net\\BTL_NET\\BTL_NET\\dangky.cs",
+              "ToolTip": "C:\\Users\\hoa\\source\\repos\\baitaplon.net\\BTL_NET\\BTL_NET\\dangky.cs",
               "RelativeToolTip": "BTL_NET\\dangky.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAAYwBAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-17T02:34:30.849Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "dangky.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\hoa\\source\\repos\\baitaplon.net\\BTL_NET\\BTL_NET\\dangky.Designer.cs",
+              "RelativeDocumentMoniker": "BTL_NET\\dangky.Designer.cs",
+              "ToolTip": "C:\\Users\\hoa\\source\\repos\\baitaplon.net\\BTL_NET\\BTL_NET\\dangky.Designer.cs",
+              "RelativeToolTip": "BTL_NET\\dangky.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T02:19:49.749Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dangnhap.cs",
+              "DocumentMoniker": "C:\\Users\\hoa\\source\\repos\\baitaplon.net\\BTL_NET\\BTL_NET\\dangnhap.cs",
+              "RelativeDocumentMoniker": "BTL_NET\\dangnhap.cs",
+              "ToolTip": "C:\\Users\\hoa\\source\\repos\\baitaplon.net\\BTL_NET\\BTL_NET\\dangnhap.cs",
+              "RelativeToolTip": "BTL_NET\\dangnhap.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAADwv0IAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T01:53:31.868Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "dangky.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\hoa\\source\\repos\\Net\\BTL_NET\\BTL_NET\\dangky.Designer.cs",
-              "RelativeDocumentMoniker": "BTL_NET\\dangky.Designer.cs",
-              "ToolTip": "C:\\Users\\hoa\\source\\repos\\Net\\BTL_NET\\BTL_NET\\dangky.Designer.cs",
-              "RelativeToolTip": "BTL_NET\\dangky.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hoa\\source\\repos\\baitaplon.net\\BTL_NET\\BTL_NET\\Program.cs",
+              "RelativeDocumentMoniker": "BTL_NET\\Program.cs",
+              "ToolTip": "C:\\Users\\hoa\\source\\repos\\baitaplon.net\\BTL_NET\\BTL_NET\\Program.cs",
+              "RelativeToolTip": "BTL_NET\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T02:19:49.749Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-20T02:19:13.071Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "trangchu.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\hoa\\source\\repos\\baitaplon.net\\BTL_NET\\BTL_NET\\trangchu.Designer.cs",
+              "RelativeDocumentMoniker": "BTL_NET\\trangchu.Designer.cs",
+              "ToolTip": "C:\\Users\\hoa\\source\\repos\\baitaplon.net\\BTL_NET\\BTL_NET\\trangchu.Designer.cs",
+              "RelativeToolTip": "BTL_NET\\trangchu.Designer.cs",
+              "ViewState": "AgIAAMkAAAAAAAAAAAAEwN0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T01:54:39.326Z"
             }
           ]
         }

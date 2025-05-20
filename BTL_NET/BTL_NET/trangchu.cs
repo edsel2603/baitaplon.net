@@ -26,9 +26,19 @@ namespace BTL_NET
 
         private void btnDX_Click(object sender, EventArgs e)
         {
-            this.Close(); 
-            dangnhap f = new dangnhap();
-            f.Show();     
+            DialogResult result = MessageBox.Show(
+               "Bạn chắc chắn muốn đăng xuất  không ?",
+               "Cảnh báo",
+               MessageBoxButtons.YesNo,
+               MessageBoxIcon.Warning
+           );
+
+            if (result == DialogResult.Yes)
+            {
+                this.Close();
+               
+            }
+             
         }
         private void OpenChildForm(Form childForm)
         {
@@ -91,5 +101,7 @@ namespace BTL_NET
             OpenChildForm(new timkiem());
             label2.Text = btnTimkiem.Text;
         }
+
+      
     }
 }

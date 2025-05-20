@@ -17,6 +17,7 @@ namespace BTL_NET
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new dangnhap());
+            
         }
     }
 }
