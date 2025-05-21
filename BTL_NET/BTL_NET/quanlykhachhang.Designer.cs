@@ -29,9 +29,9 @@
         private void InitializeComponent()
         {
             this.panel1 = new System.Windows.Forms.Panel();
+            this.btnBaiviet = new System.Windows.Forms.Button();
             this.btnTtkh = new System.Windows.Forms.Button();
             this.panel_Body = new System.Windows.Forms.Panel();
-            this.btnBaiviet = new System.Windows.Forms.Button();
             this.label3 = new System.Windows.Forms.Label();
             this.panel1.SuspendLayout();
             this.panel_Body.SuspendLayout();
@@ -47,6 +47,19 @@
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(928, 65);
             this.panel1.TabIndex = 0;
+            // 
+            // btnBaiviet
+            // 
+            this.btnBaiviet.Dock = System.Windows.Forms.DockStyle.Right;
+            this.btnBaiviet.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnBaiviet.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnBaiviet.Location = new System.Drawing.Point(451, 0);
+            this.btnBaiviet.Name = "btnBaiviet";
+            this.btnBaiviet.Size = new System.Drawing.Size(477, 65);
+            this.btnBaiviet.TabIndex = 1;
+            this.btnBaiviet.Text = "Bài Viết";
+            this.btnBaiviet.UseVisualStyleBackColor = true;
+            this.btnBaiviet.Click += new System.EventHandler(this.btnBaiviet_Click);
             // 
             // btnTtkh
             // 
@@ -70,19 +83,6 @@
             this.panel_Body.Name = "panel_Body";
             this.panel_Body.Size = new System.Drawing.Size(928, 535);
             this.panel_Body.TabIndex = 1;
-            // 
-            // btnBaiviet
-            // 
-            this.btnBaiviet.Dock = System.Windows.Forms.DockStyle.Right;
-            this.btnBaiviet.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnBaiviet.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnBaiviet.Location = new System.Drawing.Point(451, 0);
-            this.btnBaiviet.Name = "btnBaiviet";
-            this.btnBaiviet.Size = new System.Drawing.Size(477, 65);
-            this.btnBaiviet.TabIndex = 1;
-            this.btnBaiviet.Text = "Bài Viết";
-            this.btnBaiviet.UseVisualStyleBackColor = true;
-            this.btnBaiviet.Click += new System.EventHandler(this.btnBaiviet_Click);
             // 
             // label3
             // 

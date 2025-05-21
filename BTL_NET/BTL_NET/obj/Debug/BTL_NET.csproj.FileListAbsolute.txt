@@ -58,3 +58,6 @@ C:\Users\hoa\source\repos\baitaplon.net\BTL_NET\BTL_NET\obj\Debug\BTL_NET.csproj
 C:\Users\hoa\source\repos\baitaplon.net\BTL_NET\BTL_NET\obj\Debug\BTL_NET.csproj.CoreCompileInputs.cache
 C:\Users\hoa\source\repos\baitaplon.net\BTL_NET\BTL_NET\obj\Debug\BTL_NET.exe
 C:\Users\hoa\source\repos\baitaplon.net\BTL_NET\BTL_NET\obj\Debug\BTL_NET.pdb
+C:\Users\hoa\source\repos\baitaplon.net\BTL_NET\BTL_NET\obj\Debug\BTL_NET.tkbao.resources
+C:\Users\hoa\source\repos\baitaplon.net\BTL_NET\BTL_NET\obj\Debug\BTL_NET.tkkhachhang.resources
+C:\Users\hoa\source\repos\baitaplon.net\BTL_NET\BTL_NET\obj\Debug\BTL_NET.tknhanvien.resources
